@@ -22,11 +22,8 @@ def train(args, x_train, y_train, x_test, y_test, colours, model_mode=None, mode
     # Hint: Modify the predicted output form the model, to use loss function in step 3  #
     #####################################################################################
     """
-    Get colour categories given RGB values. This function doesn't
-    actually do the work, instead it splits the work into smaller
-    chunks that can fit into memory, and calls helper function
-    _get_rgb_cat
-
+    Train the model
+    
     Args:
      model_mode: String
     Returns:
