@@ -48,7 +48,7 @@ There are four PY files that are required to run the CNN.ipynb. Below, the funct
 - utils.py: Contains several functions for data preprocessing.
 - torch_helper.py: Contains several functions used during the training process. `some of them required to implement`
 - model.py: Contains several classes as the models and their blocks (base model and custom U-Net). `required to implement`
-- train.py: as the its name show it is for training and validating model. `required to implement`
+- train.py: As its name shows, it is for training and validating model. `required to implement`
 
 <br>
 
