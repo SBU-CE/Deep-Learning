@@ -52,7 +52,7 @@ There are four PY files that are required to run the CNN.ipynb. Below, the funct
 
 <br>
 
-**Problem Statement:** You are given two dataset `train_signs.h5` and `test_signs.h5` containing:
+**Problem Statement:**
 
     -- train different CNN models to classify each pixel of the image.
 
