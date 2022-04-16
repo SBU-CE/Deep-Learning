@@ -2,9 +2,11 @@
   Image Colorization with Convolutional Neural Network
 </h1>
 
-<p align="center">
-  Welcome to the <b>second</b> programming assignment of the Deep Learning course.
 
+
+<p align="center">
+  Welcome to the second programming assignment of the Deep Learning course. 
+  <br/><br/>
   <img src="images/sample_image_colorization.jpg">
 </p>
 
