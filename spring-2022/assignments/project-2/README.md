@@ -41,14 +41,14 @@ The subset of **24 colors** that are selected to colorize the grayscale images i
 
 
 
-## What these codes do (exist in PY files)
+## What this code does (exist in PY files)
 
 There are four PY files that are required to run the CNN.ipynb. Below, the functionality of each PY file are summarized, but more details are provided in the files themselves.
 
-- utils.py: Contain several functions for data preprocessing.
-- torch_helper.py: Contain several functions used during the training process. `some of them required to implement`
+- utils.py: Contains several functions for data preprocessing.
+- torch_helper.py: Contains several functions used during the training process. `some of them required to implement`
 - model.py: Contains several classes as the models and their blocks (base model and custom U-Net). `required to implement`
-- train.py: as the its name show it is for training and validating model. `required to implement`
+- train.py: As its name shows, it is for training and validating model. `required to implement`
 
 <br>
 
