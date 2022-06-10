@@ -31,7 +31,7 @@ A powerful type of neural network designed to handle sequence dependence is call
 
 ### Dataset
  
-**Google Stock Dataset** This dataset consists of the closing stock price of a share of Google stock during the trading days between December 20, 2015, and December 17, 2021.[link](https://finance.yahoo.com/quote/GOOG/history/?guccounter=1)
+**Google Stock Dataset** This dataset consists of the closing stock price of a share of Google stock during the trading days between December 20, 2013, and December 17, 2021.[link](https://finance.yahoo.com/quote/GOOG/history/?guccounter=1)
 
 > GOOG.close The closing stock price of a share of Google stock.
 > 
